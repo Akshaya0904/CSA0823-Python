@@ -1,0 +1,11 @@
+git config --global user.name"akshaya"
+git config --global user.email"akshaya@email.com"
+git clone path
+cd filename
+git branch slow
+git checkout slow
+vim README.md
+i esc :wq
+git add README.md
+git commit -m "hello guys"
+git push origin slow
